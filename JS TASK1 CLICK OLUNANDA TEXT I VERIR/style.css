@@ -1,0 +1,26 @@
+a {
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    border: 2px solid black;
+}
+
+a:hover {
+    background-color: rgb(90, 20, 20);
+    color: white;
+}
+
+.active {
+    background-color: rgb(90, 20, 20);
+    color: white;
+}
+
+.current {
+    display: block;
+}
+
+p {
+    display: none;
+    max-width: 50%;
+}

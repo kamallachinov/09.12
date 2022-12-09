@@ -1,0 +1,29 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+.table-container {
+    position: absolute;
+    top: 8%;
+    left: 25%;
+    width: 60%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+i {
+    font-size: 18px;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+}
